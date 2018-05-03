@@ -1,0 +1,144 @@
+@font-face {
+	font-family: Calibri Bold;
+	src : url("../fonts/calibrib.ttf");
+}
+@font-face {
+	font-family: Calibri;
+	src : url("../fonts/calibri.ttf");
+}
+@font-face {
+	font-family: Drops typeface;
+	src : url("../fonts/Drops typeface.ttf");
+}
+@font-face {
+	font-family: ITCBLKAD;
+	src : url("../fonts/ITCBLKAD.TTF");
+}
+header {
+	font-family: "Calibri", sans-serif;
+	margin-top: 40px;
+	margin-bottom : 40px;
+}
+.logo{
+	font-family: Drops typeface;
+	font-size: 48px;
+	margin-top: -15px;
+}
+.phone{
+	font-size: 15px;
+}
+.cart{
+	height: 35px;
+	border-bottom: 1px solid #000;
+}
+.offer {
+	background: url("../img/woman.png") no-repeat center top;
+	height: 971px;
+	margin-top: 20px;
+}
+.text__offer{
+	font-family: ITCBLKAD;
+	font-size: 100px;
+	color: #fff;
+	margin-top: 320px;
+	margin-bottom: 114px;
+}
+.button__offer{
+	height: 111px;
+	width: 410px;
+	border : 1px solid #fff;
+	color: #fff;
+	font-size: 36px;
+	text-transform: uppercase;
+	margin-bottom: 230px;
+}
+
+.button__offer:hover {
+	background-color: #fff;
+	color: #000;
+}
+
+.section_one{
+	margin-bottom: 50px;
+}
+
+.popular__product{
+	font-family: ITCBLKAD;
+	font-size: 72px;
+}
+.card__product{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	font-family: Calibri Bold;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+.add__card{
+	font-size: 50px;
+}
+
+.card__product:hover {
+	border: 1px solid #000;
+}
+.categories{
+	font-family: ITCBLKAD;
+	font-size: 72px;
+	margin-top: 60px;
+	color: #fff;
+	margin-bottom: 40px;
+}
+
+.section__two {
+	background: url("../img/background_two.png") no-repeat center top;
+	height: 1133px;
+}
+.woman{
+	color: #fff;
+	font-size: 25px;
+	text-align: center;
+	height: 387px;
+	border-left: 1px solid #fff;
+}
+
+.woman__text{
+	width: 460px;
+}
+.man{
+	color: #fff;
+	font-size: 25px;
+	text-align: center;
+	height: 387px;
+	border-right: 1px solid #fff;
+}
+
+.man__text{
+	width: 460px;
+}
+
+footer {
+	margin-top: 70px;
+	margin-bottom : 70px;
+}
+
+.footer_caption {
+	font-size: 30px;
+	text-transform: uppercase;
+	font-family: Calibri;
+	color: #a4a0a0;
+	margin-bottom: 32px;
+}
+.footer__text {
+	font-size: 20px;
+	color: #a4a0a0;
+	line-height: 40px;
+	margin-bottom: 32px;
+}
+.input__email{
+	width: 333px;
+	height: 50px;
+	border: 0;
+	font-family: Calibri;
+	font-size: 30px;
+	border-bottom: 1px solid #bfb8b8;
+}
