@@ -20,7 +20,7 @@
 				</div>
 			</div>
 				<div class="col-xl-12 d-flex justify-content-end ">
-					<div d-flex justify-content-end">
+					<div class=" d-flex justify-content-end ">
 						<table class="table_close" id="table" cellspacing="10" cellpadding="10" border="1">
 							<tr>
 								<th>Id</th>
